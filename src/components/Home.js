@@ -15,7 +15,7 @@ function Home() {
                 margin: "20px",
               }}
               className="card-img"
-              src="https://i.ibb.co/XyWtqTj/pic-pro.png"
+              src="https://media-exp3.licdn.com/dms/image/C4D03AQH6zP0BzbkgwA/profile-displayphoto-shrink_800_800/0/1531339575468?e=1631750400&v=beta&t=fwtRtEvvGVRkrFAkSoZhJD6VDIL3tIkpenVf863Y_wk"
               alt="Ibraheem"
             />
           </div>
@@ -23,7 +23,7 @@ function Home() {
             <div className="card-body">
               <br />
               <br />
-              <p className="card-title">IBRAHEEM SHAHEEN </p>
+              <p className="card-title">Amjad Al-Mohtaseb </p>
               <p className="card-text fsd">
                 <h4>Full Stack Developer</h4>
               </p>
@@ -32,8 +32,10 @@ function Home() {
               <br />
               <p className="card-text about">
                 <p>
-                An Electrical power engineering graduate. I discovered my passion for coding during my study so I started self learning after graduation. And now I'm a junior full stack developer and the passion never stops.
-
+                  Electrical Engineering graduate, during my studies I got
+                  interested in control systems so wanted to learn how
+                  to code. And now I'm a junior full stack developer
+                  who is passionate to learn and explore more.
                 </p>
               </p>{" "}
               <br />
@@ -44,7 +46,7 @@ function Home() {
               <br />
               <br />
               <br />
-              <a href="https://github.com/IbraShaheen" target="_blank">
+              <a href="https://github.com/Amjad-Almohtaseb" target="_blank">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="55"
@@ -59,7 +61,7 @@ function Home() {
               </a>{" "}
               &nbsp;&nbsp;&nbsp;&nbsp;
               <a
-                href="https://www.linkedin.com/in/ibraheem-shaheen/"
+                href="https://www.linkedin.com/in/amjad-almohtaseb-4b85b7165/"
                 target="_blank"
               >
                 <svg
@@ -75,7 +77,7 @@ function Home() {
                 </svg>
               </a>{" "}
               &nbsp;&nbsp;&nbsp;&nbsp;
-              <a href="mailto: engibraheem1995@gmail.com" target="_blank">
+              <a href="mailto: amjad.almohtaseb94@gmail.com" target="_blank">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="55"
@@ -89,7 +91,7 @@ function Home() {
                 </svg>
               </a>
               &nbsp;&nbsp;&nbsp;&nbsp;
-              <a href="tel: +962787381699" target="_blank">
+              <a href="tel: +962780781168" target="_blank">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="55"
@@ -105,10 +107,10 @@ function Home() {
                   />
                 </svg>
               </a>
-              
+
               &nbsp;&nbsp;&nbsp;&nbsp;
-              <a href="your codewars url" target="_blank">
-              <SiCodewars style={{ width: "60px", height: "60px", color:"#0d3b66"}} />
+              <a href="https://www.codewars.com/users/Amjad-almohtaseb" target="_blank">
+                <SiCodewars style={{ width: "60px", height: "60px", color: "#0d3b66" }} />
               </a>
             </div>
           </div>

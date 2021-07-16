@@ -59,19 +59,14 @@ const Skills = () => {
             &nbsp;&nbsp;&nbsp;&nbsp;
             <SiRedux style={{ width: "60px", height: "60px" }} />
             &nbsp;&nbsp;&nbsp;&nbsp;
-            <br/><br/>
-            <img
-              style={{ width: "200px", height: "60px" }}
-              src="https://cdn-images-1.medium.com/max/1600/1*ypyKHfdnTbM-DZG-nZ5tRg.png"
-              alt="react-native"
-            />
+            <br /><br />
             &nbsp;&nbsp;&nbsp;&nbsp;
-              <img
-              style={{ width: "200px", height: "60px",color:"white" }}
+            <img
+              style={{ width: "200px", height: "60px", color: "white" }}
               src="https://gfx4arab.com/wp-content/uploads/2020/07/express-109.svg"
               alt="express"
             />
-            <br/>
+            <br />
           </div>
         </div>
       </div>
