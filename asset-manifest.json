@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/https//AmjadMportfolio.github.io/static/css/main.ce11ce9f.chunk.css",
+    "main.js": "/https//AmjadMportfolio.github.io/static/js/main.049623b6.chunk.js",
+    "main.js.map": "/https//AmjadMportfolio.github.io/static/js/main.049623b6.chunk.js.map",
+    "runtime-main.js": "/https//AmjadMportfolio.github.io/static/js/runtime-main.3cb4984e.js",
+    "runtime-main.js.map": "/https//AmjadMportfolio.github.io/static/js/runtime-main.3cb4984e.js.map",
+    "static/css/2.fb17aa6d.chunk.css": "/https//AmjadMportfolio.github.io/static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.e92b12fe.chunk.js": "/https//AmjadMportfolio.github.io/static/js/2.e92b12fe.chunk.js",
+    "static/js/2.e92b12fe.chunk.js.map": "/https//AmjadMportfolio.github.io/static/js/2.e92b12fe.chunk.js.map",
+    "static/js/3.5ebba4ad.chunk.js": "/https//AmjadMportfolio.github.io/static/js/3.5ebba4ad.chunk.js",
+    "static/js/3.5ebba4ad.chunk.js.map": "/https//AmjadMportfolio.github.io/static/js/3.5ebba4ad.chunk.js.map",
+    "index.html": "/https//AmjadMportfolio.github.io/index.html",
+    "static/css/2.fb17aa6d.chunk.css.map": "/https//AmjadMportfolio.github.io/static/css/2.fb17aa6d.chunk.css.map",
+    "static/css/main.ce11ce9f.chunk.css.map": "/https//AmjadMportfolio.github.io/static/css/main.ce11ce9f.chunk.css.map",
+    "static/js/2.e92b12fe.chunk.js.LICENSE.txt": "/https//AmjadMportfolio.github.io/static/js/2.e92b12fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cb4984e.js",
+    "static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.e92b12fe.chunk.js",
+    "static/css/main.ce11ce9f.chunk.css",
+    "static/js/main.049623b6.chunk.js"
+  ]
+}
