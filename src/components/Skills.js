@@ -12,8 +12,6 @@ import { SiCss3 } from "@react-icons/all-files/si/SiCss3";
 import { SiPython } from "@react-icons/all-files/si/SiPython";
 import { SiDjango } from "@react-icons/all-files/si/SiDjango";
 
-
-
 const Skills = () => {
   return (
     <center id="skill">
@@ -59,7 +57,13 @@ const Skills = () => {
             &nbsp;&nbsp;&nbsp;&nbsp;
             <SiRedux style={{ width: "60px", height: "60px" }} />
             &nbsp;&nbsp;&nbsp;&nbsp;
-            <br /><br />
+            <br />
+            <br />
+            <img
+              style={{ width: "200px", height: "60px" }}
+              src="https://cdn-images-1.medium.com/max/1600/1*ypyKHfdnTbM-DZG-nZ5tRg.png"
+              alt="react-native"
+            />
             &nbsp;&nbsp;&nbsp;&nbsp;
             <img
               style={{ width: "200px", height: "60px", color: "white" }}

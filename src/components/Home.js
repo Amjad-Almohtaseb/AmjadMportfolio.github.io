@@ -4,7 +4,6 @@ import { SiCodewars } from "@react-icons/all-files/si/SiCodewars";
 function Home() {
   return (
     <center id="about">
-
       <div className="card mb-3" style={{ maxWidth: "98%" }}>
         <div className="row no-gutters">
           <div className="col-md-4">
@@ -15,8 +14,8 @@ function Home() {
                 margin: "20px",
               }}
               className="card-img"
-              src="https://media-exp3.licdn.com/dms/image/C4D03AQH6zP0BzbkgwA/profile-displayphoto-shrink_800_800/0/1531339575468?e=1631750400&v=beta&t=fwtRtEvvGVRkrFAkSoZhJD6VDIL3tIkpenVf863Y_wk"
-              alt="Ibraheem"
+              src="https://i.ibb.co/Y84vRNY/2305e66a-eeeb-43c3-8d55-67c8911c6f45-1.jpg"
+              alt="Amjad"
             />
           </div>
           <div className="col-md-8">
@@ -33,9 +32,9 @@ function Home() {
               <p className="card-text about">
                 <p>
                   Electrical Engineering graduate, during my studies I got
-                  interested in control systems so wanted to learn how
-                  to code. And now I'm a junior full stack developer
-                  who is passionate to learn and explore more.
+                  interested in control systems so wanted to learn how to code.
+                  And now I'm a junior full stack developer who is passionate to
+                  learn and explore more.
                 </p>
               </p>{" "}
               <br />
@@ -107,10 +106,14 @@ function Home() {
                   />
                 </svg>
               </a>
-
               &nbsp;&nbsp;&nbsp;&nbsp;
-              <a href="https://www.codewars.com/users/Amjad-almohtaseb" target="_blank">
-                <SiCodewars style={{ width: "60px", height: "60px", color: "#0d3b66" }} />
+              <a
+                href="https://www.codewars.com/users/Amjad-almohtaseb"
+                target="_blank"
+              >
+                <SiCodewars
+                  style={{ width: "60px", height: "60px", color: "#0d3b66" }}
+                />
               </a>
             </div>
           </div>
