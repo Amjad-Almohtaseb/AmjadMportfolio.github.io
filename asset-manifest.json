@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/amjadmportfolio.github.io/static/css/main.ce11ce9f.chunk.css",
-    "main.js": "/amjadmportfolio.github.io/static/js/main.ae51c174.chunk.js",
-    "main.js.map": "/amjadmportfolio.github.io/static/js/main.ae51c174.chunk.js.map",
+    "main.js": "/amjadmportfolio.github.io/static/js/main.7546039d.chunk.js",
+    "main.js.map": "/amjadmportfolio.github.io/static/js/main.7546039d.chunk.js.map",
     "runtime-main.js": "/amjadmportfolio.github.io/static/js/runtime-main.ecc1e3f4.js",
     "runtime-main.js.map": "/amjadmportfolio.github.io/static/js/runtime-main.ecc1e3f4.js.map",
     "static/css/2.fb17aa6d.chunk.css": "/amjadmportfolio.github.io/static/css/2.fb17aa6d.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.fb17aa6d.chunk.css",
     "static/js/2.1d72e3f0.chunk.js",
     "static/css/main.ce11ce9f.chunk.css",
-    "static/js/main.ae51c174.chunk.js"
+    "static/js/main.7546039d.chunk.js"
   ]
 }
